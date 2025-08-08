@@ -1,8 +1,11 @@
 {
     "name": "Controls",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "maps": [],
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
     "maps": [
         {
@@ -222,6 +225,9 @@
 =======
     "maps": [],
 >>>>>>> 88e6d9699463a00435043f0f1bd381f06ca7e635
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     "controlSchemes": []
 }
